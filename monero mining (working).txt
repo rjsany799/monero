@@ -1,0 +1,93 @@
+
+--------------------------------------------------------------------------------
+Hello Guys Welcome to my channel,
+
+Today we are going to mine Monero Cryptocurrency with the Linux / Ubuntu Server...
+
+
+
+
+_______________________ NOW FOLLOW MY STEPS __________________________________
+
+------------------------   go to website  ---------------------------------------
+
+
+1. www.vultr.com  (create account with $100 Free Credit) 
+
+   i already have an account
+
+
+
+--------------------------------------------------------------------------------
+ All Commands Given in Description :
+-----------------------------------------------------------------------------------
+
+1. sudo apt update
+
+2. mkdir monero
+
+3. cd monero
+
+4. wget https://github.com/xmrig/xmrig/releases/download/v6.6.0/xmrig-6.6.0-linux-x64.tar.gz
+
+5. tar -xvf xmrig-6.6.0-linux-x64.tar.gz
+
+6. cd xmrig-6.6.0/
+
+7. nano config.json
+
+
+      **** NOW change pool address and wallet address *****
+
+----------------------------------------------------------------------------
+
+8. Go to www.binance.com  (---create account & Copy Your Wallet Address---)  
+
+     i already have an account
+
+
+   for example:
+  -> Binance Wallet Address: 82sVywEUc6dYCiYctm5aGphG63HFziesN6k22Lehx3q4PJTHpuAXz9E1D7T39iXY6g3YGYyCqvu7chnoRJb2uf9ZTKXZ1Js
+
+------------------------------------------------------------------------------------------------------
+
+9.  Go to www.2miners.com   (copy mining pool address from this site)
+
+     for example:
+          xmr.2miners.com:2222     (working)
+          xmr.2miners.com:3333     (Nicehash-not working)
+
+        Ok now press ctrl + x
+        then Y 
+        then ENTER
+
+---------------------------------------------------------------------------------------------------
+  
+   *******  Last command and our miner will be mining monero crypto currency  *******
+
+10. ./xmrig
+
+ 
+----------------------------------------------------------------------------------------------------------------
+11. Go to www.2miners.com
+
+     Check to see if you are getting hashing power from your new mining server
+     On the monero mining pool website
+
+     
+     It takes 2-3 minutes to show your worker on a website...
+
+
+
+ Now Copy your Binance wallet address 
+
+ thanks for watching
+hit the like button 
+if you have any doubt than leave comment...
+
+
+
+
+
+
+

@@ -34,7 +34,9 @@ _______________________ NOW FOLLOW MY STEPS __________________________________
 
 6. cd xmrig-6.6.0/
 
-7. nano config.json
+7.sudo apt-get install nano
+
+8. nano config.json
 
 
       **** NOW change pool address and wallet address *****
